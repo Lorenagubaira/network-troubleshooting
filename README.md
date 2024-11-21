@@ -1,6 +1,6 @@
+<!-- hide -->
 # Troubleshooting a network with Packet Tracer
 
-<!-- hide -->
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/blob/master/js-bg-badge.png"></a>
 
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
@@ -9,6 +9,10 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/blob/main/README.es.md) :es:*
+
+## Before you begin... something related with these tutorials:
+
+> We need you! These exercises are built and maintained by contributions from people like you. If you find any bugs or spelling errors, please report them.
 <!-- endhide -->
 
 In this scenario you'll act as the person in charge of the network in a 4Geeks Academy campus. You must complete the configurations needed in order to get the network up and running, and also implement security policies to guarantee the correct use of the internal services in the network.
@@ -21,17 +25,13 @@ This practice covers the following subjects:
 4. WiFi networks
 5. Access control list (ACL)
 
-
-<!-- hide -->
-## Before you begin... something related with these tutorials:
-
-> We need you! These exercises are built and maintained by contributions from people like you. If you find any bugs or spelling errors, please report them.
-
-<!-- endhide -->
+<onlyfor saas="true" withBanner="true">
 
 ## 🌱 How to start this project?
 
 [Download here](https://github.com/4GeeksAcademy/network-troubleshooting/raw/master/assets/network-troubleshooting.pka) the file and open it with Packet Tracer.
+
+</onlyfor>
 
 ## 📝 Instructions
 
@@ -56,4 +56,5 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind are welcome!
 
-This and many other exercises are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sánchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and  [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).Tambien puedes adentrarte al mundo de ciberseguridad con nuestro [Bootcamp de ciberseguridad](https://4geeksacademy.com/es/coding-bootcamps/curso-ciberseguridad). <!-- endhide -->
+This and many other exercises are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sánchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and  [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).Tambien puedes adentrarte al mundo de ciberseguridad con nuestro [Bootcamp de ciberseguridad](https://4geeksacademy.com/es/coding-bootcamps/curso-ciberseguridad). 
+<!-- endhide -->

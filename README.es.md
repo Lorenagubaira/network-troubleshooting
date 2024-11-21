@@ -1,12 +1,16 @@
+<!-- hide -->
 # Solucionando problemas de red
 
-<!-- hide -->
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/network-troubleshooting)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *This instructions [are available in english](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/blob/main/README.md)*
+
+## Antes de empezar... algo relacionado con los tutoriales:
+
+> Te necesitamos! Estos ejercicios están construidos y mantenidos por contribuciones de gente como tu. Si encuentras algún bug o error ortográfico, por favor reportalo.
 <!-- endhide -->
 
 En este escenario simulas ser el responsable de la red de un campus de 4Geeks Academy. Deberás completar las configuraciones necesarias para poner en funcionamiento la red, e implementar medidas de seguridad para garantizar el uso correcto de los servicios internos.
@@ -19,16 +23,13 @@ Esta práctica abarca los siguientes temas:
 4. Configuracion de redes WiFi
 5. Listas de control de acceso (ACL)
 
-<!-- hide -->
-## Antes de empezar... algo relacionado con los tutoriales:
-
-> Te necesitamos! Estos ejercicios están construidos y mantenidos por contribuciones de gente como tu. Si encuentras algún bug o error ortográfico, por favor reportalo.
-
-<!-- endhide -->
+<onlyfor saas="true" withBanner="true">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
 [Descarga aquí](https://github.com/4GeeksAcademy/network-troubleshooting/raw/master/assets/network-troubleshooting.pka) el archivo y abrelo con Packet Tracer.
+
+</onlyfor>
 
 ## 📝 Instrucciones
 
