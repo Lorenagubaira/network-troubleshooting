@@ -23,7 +23,7 @@ Esta práctica abarca los siguientes temas:
 4. Configuracion de redes WiFi
 5. Listas de control de acceso (ACL)
 
-<onlyfor saas="true" withBanner="true">
+<onlyfor saas="true" withBanner="false">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
