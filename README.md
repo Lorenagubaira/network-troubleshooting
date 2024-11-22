@@ -25,7 +25,7 @@ This practice covers the following subjects:
 4. WiFi networks
 5. Access control list (ACL)
 
-<onlyfor saas="true" withBanner="true">
+<onlyfor saas="true" withBanner="false">
 
 ## 🌱 How to start this project?
 
