@@ -23,13 +23,9 @@ Esta práctica abarca los siguientes temas:
 4. Configuracion de redes WiFi
 5. Listas de control de acceso (ACL)
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 ¿Cómo empezar este proyecto?
 
 [Descarga aquí](https://github.com/4GeeksAcademy/network-troubleshooting/raw/master/assets/network-troubleshooting.pka) el archivo y abrelo con Packet Tracer.
-
-</onlyfor>
 
 ## 📝 Instrucciones
 
