@@ -25,13 +25,9 @@ This practice covers the following subjects:
 4. WiFi networks
 5. Access control list (ACL)
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 How to start this project?
 
 [Download here](https://github.com/4GeeksAcademy/network-troubleshooting/raw/master/assets/network-troubleshooting.pka) the file and open it with Packet Tracer.
-
-</onlyfor>
 
 ## 📝 Instructions
 
